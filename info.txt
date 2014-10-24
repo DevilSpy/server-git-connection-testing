@@ -1,0 +1,2 @@
+Oon käyttäny tässä tämmöstä automaattisesti ottamaan gitistä muutokset wehookilla
+https://github.com/markomarkovic/simple-php-git-deploy
